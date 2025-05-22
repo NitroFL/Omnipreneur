@@ -160,17 +160,9 @@ main {
   width: 100%;
 }
 
-.featured-products {
-  margin-top: 30px;
-  background-color: #17181a;
-  border-radius: 20px;
-  box-shadow: 0 0 10px black;
-  max-width: 300px;
-  height: 400px;
-  transition: transform 0.2s ease, box-shadow 0.3s ease;
-  text-decoration: none;
+.product-details h2{
+ padding: 0.5rem;
 }
-
 .product {
   margin-top: 30px;
   background-color: #17181a;
