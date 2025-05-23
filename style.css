@@ -336,7 +336,7 @@ body {
 .buy-button:hover {
   transform: scale(1.02);
 }
-.download img {
+.downloads img {
   display: flex;
   width: 100px;
   height: auto;
