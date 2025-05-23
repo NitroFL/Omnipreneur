@@ -342,8 +342,10 @@ body {
   height: 550px;
 }
 .download-items a button{
+  border: none;
+  background: none;
   color: black;
-  width: 50px;
+  width: 25px;
   margin: 0px;
   padding: 5px;
 }
