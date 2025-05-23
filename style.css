@@ -336,3 +336,10 @@ body {
 .buy-button:hover {
   transform: scale(1.02);
 }
+.download img {
+  display: flex;
+  width: 100px;
+  height: auto;
+  align-items: center;
+  justify-content: center;
+}
