@@ -343,4 +343,6 @@ body {
 }
 .download-items a button{
   width: 50px;
+  margin: 10px;
+  padding: 15px;
 }
