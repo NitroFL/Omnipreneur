@@ -1,0 +1,23 @@
+<section class="downloads">
+  <h2>📚 Free Resources</h2>
+
+  <div class="download-item">
+    <h3>5 AI Tools Everyone Needs</h3>
+    <a href="5 ai tools everyone needs.pdf" download class="buy-button">Download PDF</a>
+  </div>
+
+  <div class="download-item">
+    <h3>Essential Strategies for Building a Profitable Online Business</h3>
+    <a href="Essential Strategies for Building a Profitable Online Business.pdf" download class="buy-button">Download PDF</a>
+  </div>
+
+  <div class="download-item">
+    <h3>The Omnipreneur's Essential AI Toolkit</h3>
+    <a href="The-Omnipreneurs-Essential-AI-Toolkit.pdf" download class="buy-button">Download PDF</a>
+  </div>
+
+  <div class="download-item">
+    <h3>Online Business Models: A Beginner’s Guide</h3>
+    <a href="Online-Business-Models_-A-Beginners-Guide.pdf" download class="buy-button">Download PDF</a>
+  </div>
+</section>
