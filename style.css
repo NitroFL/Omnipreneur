@@ -343,3 +343,6 @@ body {
   align-items: center;
   justify-content: center;
 }
+.download-items a button{
+  width: 50px;
+}
