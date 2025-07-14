@@ -156,7 +156,7 @@ main {
   flex-wrap: wrap;
   justify-content: center; 
   align-items: flex-start;
-  gap: 1rem;
+  gap: 0.3rem;
   padding: 2rem;
   width: 100%;
 }
