@@ -173,7 +173,6 @@ main {
   max-width: 300px;
   transition: transform 0.2s ease, box-shadow 0.3s ease;
   text-decoration: none;
-  float: inline-start;
 }
 
 .product p {
